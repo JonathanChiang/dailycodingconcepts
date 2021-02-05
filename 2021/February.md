@@ -6,7 +6,7 @@
   - https://colab.research.google.com/drive/1yiuC5fN7VdDtv-il4zD5uqpvzJ01aoYS#scrollTo=YgTgA9PmmfMk
 
 - Solving 1086: High Five: 
-- https://leetcode.com/problems/high-five/
+  - https://leetcode.com/problems/high-five/
 
 ### Methods and Data Structures Learned: 
 
